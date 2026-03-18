@@ -9,7 +9,7 @@ from config import SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASSWORD, EMAIL_FROM, E
 
 
 def send_alert_email(html_content: str, plaintext_content: str, target_date: date,
-                     recipients: list[str] = None) -> bool:
+                     recipients: list[str] = None, resolution_count: int = 0) -> bool:
     """
     Send the resolution alert email.
 
@@ -24,7 +24,11 @@ def send_alert_email(html_content: str, plaintext_content: str, target_date: dat
         print("  The HTML output has been saved to the output directory instead.")
         return False
 
-    subject = f"Congressional Resolution Alert — {target_date.strftime('%B %-d, %Y')}"
+    date_str = target_date.strftime('%B %-d, %Y')
+    if resolution_count > 0:
+        subject = f"Congressional Resolution Alert — {date_str} ({resolution_count} resolution{'s' if resolution_count != 1 else ''})"
+    else:
+        subject = f"Congressional Resolution Alert — {date_str} (none)"
 
     msg = MIMEMultipart("alternative")
     msg["Subject"] = subject

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,10 +12,15 @@
 </o:OfficeDocumentSettings>
 </xml>
 </noscript>
+<style>
+  table { border-collapse: collapse; }
+  .wrapper { width: 680px !important; }
+</style>
 <![endif]-->
 <style>
   /* Reset */
   body, table, td, p, a, li { -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+  table, td { mso-table-lspace: 0pt; mso-table-rspace: 0pt; }
   body { margin: 0; padding: 0; width: 100% !important; }
 
   /* Base */
@@ -32,82 +37,43 @@
     background: #ffffff;
   }
 
-  /* Header */
-  .header {
-    background: #1a1a2e;
-    color: #ffffff;
-    padding: 32px 40px 28px;
-  }
-  .header h1 {
-    margin: 0 0 4px;
-    font-size: 24px;
-    font-weight: 700;
-    letter-spacing: -0.3px;
-    color: #ffffff;
-  }
-  .header .subtitle {
-    margin: 0;
-    font-size: 15px;
-    color: #a0a0b8;
-    font-weight: 400;
-  }
-  .header .date-badge {
+  /* Badges */
+  .cat-badge {
     display: inline-block;
-    margin-top: 12px;
-    padding: 4px 14px;
-    background: #2d2d4a;
-    border-radius: 4px;
-    font-size: 14px;
-    color: #c8c8e0;
+    padding: 2px 8px;
+    border-radius: 3px;
+    font-size: 11px;
+    font-weight: 700;
     font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+    vertical-align: middle;
+  }
+  .cat-badge.substantive {
+    background: #fce4ec;
+    color: #c62828;
+  }
+  .cat-badge.commemorative {
+    background: #f3e5f5;
+    color: #7b1fa2;
+  }
+  .cat-badge.procedural {
+    background: #e0e0e0;
+    color: #616161;
   }
 
-  /* Summary bar */
-  .summary-bar {
-    background: #f8f8fc;
-    border-bottom: 1px solid #e8e8f0;
-    padding: 18px 40px;
-    font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;
-    font-size: 14px;
-    color: #4a4a6a;
-  }
-  .summary-bar .count {
-    font-weight: 700;
-    color: #1a1a2e;
-    font-size: 16px;
-  }
-  .summary-stat {
+  .method-badge {
     display: inline-block;
-    margin-right: 24px;
-  }
-
-  /* Section */
-  .section {
-    padding: 28px 40px 8px;
-  }
-  .section-header {
-    display: flex;
-    align-items: center;
-    margin-bottom: 6px;
-  }
-  .section-title {
-    font-size: 17px;
-    font-weight: 700;
-    color: #1a1a2e;
-    margin: 0;
+    padding: 2px 10px;
+    border-radius: 3px;
+    font-size: 12px;
+    font-weight: 600;
     font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;
   }
-  .section-note {
-    font-size: 13px;
-    color: #7a7a9a;
-    margin: 0 0 16px;
-    font-style: italic;
-  }
-  .section-divider {
-    border: none;
-    border-top: 2px solid #e8e8f0;
-    margin: 0 0 12px;
-  }
+  .method-badge.uc { background: #e8f5e9; color: #2e7d32; }
+  .method-badge.roll { background: #fff3e0; color: #e65100; }
+  .method-badge.voice { background: #e3f2fd; color: #1565c0; }
+  .method-badge.other { background: #f3e5f5; color: #6a1b9a; }
 
   /* Resolution card */
   .res-card {
@@ -117,9 +83,15 @@
     margin-bottom: 16px;
     background: #fafaff;
   }
-  .res-card:hover {
-    border-color: #c0c0d8;
+  .res-card.substantive {
+    border-left: 4px solid #c62828;
+    background: #fffafa;
   }
+  .res-card.procedural {
+    border-left: 4px solid #9e9e9e;
+    background: #fafafa;
+  }
+
   .res-label {
     font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;
     font-size: 12px;
@@ -154,35 +126,7 @@
     margin: 0;
     line-height: 1.7;
   }
-  .res-meta strong {
-    color: #3a3a5a;
-    font-weight: 600;
-  }
-
-  .method-badge {
-    display: inline-block;
-    padding: 2px 10px;
-    border-radius: 3px;
-    font-size: 12px;
-    font-weight: 600;
-    font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;
-  }
-  .method-badge.uc {
-    background: #e8f5e9;
-    color: #2e7d32;
-  }
-  .method-badge.roll {
-    background: #fff3e0;
-    color: #e65100;
-  }
-  .method-badge.voice {
-    background: #e3f2fd;
-    color: #1565c0;
-  }
-  .method-badge.other {
-    background: #f3e5f5;
-    color: #6a1b9a;
-  }
+  .res-meta strong { color: #3a3a5a; font-weight: 600; }
 
   .res-links {
     margin-top: 10px;
@@ -196,119 +140,191 @@
   }
   .res-links a:hover { text-decoration: underline; }
 
-  /* Empty state */
-  .empty-state {
-    text-align: center;
-    padding: 48px 40px;
-    color: #7a7a9a;
-  }
-  .empty-state h2 {
-    font-size: 20px;
-    color: #4a4a6a;
-    margin: 0 0 8px;
-  }
-  .empty-state p {
-    font-size: 15px;
-    margin: 0;
-  }
-
-  /* Footer */
-  .footer {
-    background: #f8f8fc;
-    border-top: 1px solid #e8e8f0;
-    padding: 24px 40px;
-    text-align: center;
-    font-family: -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif;
-    font-size: 12px;
-    color: #8a8aa8;
-  }
-  .footer a {
-    color: #2c3e8c;
-    text-decoration: none;
-  }
-  .footer p { margin: 4px 0; }
-
   /* Responsive */
   @media screen and (max-width: 600px) {
-    .header, .summary-bar, .section, .empty-state, .footer {
-      padding-left: 20px !important;
-      padding-right: 20px !important;
-    }
+    .content-pad { padding-left: 20px !important; padding-right: 20px !important; }
     .res-card { padding: 16px !important; }
-    .header h1 { font-size: 20px !important; }
   }
 </style>
 </head>
 <body>
-<div class="wrapper">
+
+<!-- Outer wrapper table for Outlook compatibility -->
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" border="0" style="background:#f0f0f5;">
+<tr><td align="center">
+<table role="presentation" class="wrapper" width="680" cellpadding="0" cellspacing="0" border="0" style="max-width:680px;background:#ffffff;">
 
   <!-- Header -->
-  <div class="header">
-    <h1>Congressional Resolution Alert</h1>
-    <p class="subtitle">Resolutions passed on the prior legislative day</p>
-    <div class="date-badge">{{ date_formatted }}</div>
-  </div>
+  <tr>
+    <td class="content-pad" style="background:#1a1a2e;color:#ffffff;padding:32px 40px 28px;">
+      <h1 style="margin:0 0 4px;font-size:24px;font-weight:700;letter-spacing:-0.3px;color:#ffffff;font-family:Georgia,'Times New Roman',serif;">
+        Congressional Resolution Alert
+      </h1>
+      <p style="margin:0;font-size:15px;color:#a0a0b8;font-weight:400;">
+        Resolutions passed on the prior legislative day
+      </p>
+      <div style="display:inline-block;margin-top:12px;padding:4px 14px;background:#2d2d4a;border-radius:4px;font-size:14px;color:#c8c8e0;font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;">
+        {{ date_formatted }}
+      </div>
+    </td>
+  </tr>
 
   {% if resolutions %}
   <!-- Summary Bar -->
-  <div class="summary-bar">
-    <span class="summary-stat"><span class="count">{{ resolutions|length }}</span> resolution{{ "s" if resolutions|length != 1 }} passed</span>
-    {% if senate_count %}<span class="summary-stat">Senate: {{ senate_count }}</span>{% endif %}
-    {% if house_count %}<span class="summary-stat">House: {{ house_count }}</span>{% endif %}
-    {% if joint_count %}<span class="summary-stat" style="color: #c0392b; font-weight: 600;">{{ joint_count }} joint (force of law)</span>{% endif %}
-  </div>
+  <tr>
+    <td class="content-pad" style="background:#f8f8fc;border-bottom:1px solid #e8e8f0;padding:18px 40px;font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:14px;color:#4a4a6a;">
+      <span style="font-weight:700;color:#1a1a2e;font-size:16px;">{{ resolutions|length }}</span>
+      resolution{{ "s" if resolutions|length != 1 }} passed
+      {% if senate_count %}&nbsp;&nbsp;Senate: {{ senate_count }}{% endif %}
+      {% if house_count %}&nbsp;&nbsp;House: {{ house_count }}{% endif %}
+      {% if joint_count %}<br><span style="color:#c0392b;font-weight:600;">{{ joint_count }} joint resolution{{ "s" if joint_count != 1 }} (force of law)</span>{% endif %}
+      {% if substantive_count %}<br><span style="color:#c62828;font-weight:600;">{{ substantive_count }} substantive</span>{% endif %}
+    </td>
+  </tr>
 
-  <!-- Resolution Sections -->
-  {% for group in grouped_resolutions %}
-  <div class="section">
-    <hr class="section-divider">
-    <h2 class="section-title">{{ group.label }} ({{ group.resolutions|length }})</h2>
-    <p class="section-note">{{ group.description }}</p>
+  {% if substantive_resolutions %}
+  <!-- Substantive Resolutions (highlighted) -->
+  <tr>
+    <td class="content-pad" style="padding:28px 40px 8px;">
+      <hr style="border:none;border-top:3px solid #c62828;margin:0 0 12px;">
+      <h2 style="font-size:17px;font-weight:700;color:#c62828;margin:0;font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;">
+        Substantive Resolutions ({{ substantive_resolutions|length }})
+      </h2>
+      <p style="font-size:13px;color:#7a7a9a;margin:0 0 16px;font-style:italic;">
+        Policy statements, organizational changes, and other non-commemorative actions
+      </p>
 
-    {% for res in group.resolutions %}
-    <div class="res-card">
-      <p class="res-label {{ 'senate' if res.chamber == 'Senate' else 'house' }}">
-        {{ res.chamber }}
-      </p>
-      <a class="res-number" href="{{ res.congress_url }}">
-        {{ res.res_type.upper() }} {{ res.number }}
-      </a>
-      <p class="res-title">{{ res.title }}</p>
-      <p class="res-meta">
-        {% if res.sponsor %}<strong>Sponsor:</strong> {{ res.sponsor }}<br>{% endif %}
-        <strong>Passed:</strong>
-        <span class="method-badge {{ 'uc' if 'Unanimous' in res.passage_method else 'roll' if 'Roll' in res.passage_method else 'voice' if 'Voice' in res.passage_method else 'other' }}">
-          {{ res.passage_method }}
-        </span>
-        {% if res.vote_result %}<br><strong>Vote:</strong> {{ res.vote_result }}{% endif %}
-      </p>
-      <div class="res-links">
-        <a href="{{ res.congress_url }}">Congress.gov</a>
-        {% if res.text_url %}<a href="{{ res.text_url }}">Full Text</a>{% endif %}
-        <a href="https://www.congress.gov/congressional-record/{{ res.passage_date | replace('-', '/') }}">Congressional Record</a>
+      {% for res in substantive_resolutions %}
+      <div class="res-card substantive">
+        <p class="res-label {{ 'senate' if res.chamber == 'Senate' else 'house' }}" style="margin:0 0 6px;">
+          {{ res.chamber }}
+          <span class="cat-badge substantive" style="margin-left:8px;">Substantive</span>
+        </p>
+        <a class="res-number" href="{{ res.congress_url }}">
+          {{ res.res_type.upper() }} {{ res.number }}
+        </a>
+        <p class="res-title">{{ res.title }}</p>
+        <p class="res-meta">
+          {% if res.sponsor %}<strong>Sponsor:</strong> {{ res.sponsor }}{% if res.cosponsor_count %} + {{ res.cosponsor_count }} cosponsor{{ "s" if res.cosponsor_count != 1 }}{% endif %}<br>{% endif %}
+          <strong>Passed:</strong>
+          <span class="method-badge {{ 'uc' if 'Unanimous' in res.passage_method else 'roll' if 'Roll' in res.passage_method else 'voice' if 'Voice' in res.passage_method else 'other' }}">
+            {{ res.passage_method }}
+          </span>
+          {% if res.vote_result %} ({{ res.vote_result }}){% endif %}
+        </p>
+        <div class="res-links">
+          <a href="{{ res.congress_url }}">Congress.gov</a>
+          {% if res.text_url %}<a href="{{ res.text_url }}">Full Text</a>{% endif %}
+          {% if res.cr_reference %}<a href="https://www.congress.gov/congressional-record/{{ res.passage_date | replace('-', '/') }}">{{ res.cr_reference }}</a>{% else %}<a href="https://www.congress.gov/congressional-record/{{ res.passage_date | replace('-', '/') }}">Congressional Record</a>{% endif %}
+        </div>
       </div>
-    </div>
-    {% endfor %}
-  </div>
-  {% endfor %}
+      {% endfor %}
+    </td>
+  </tr>
+  {% endif %}
+
+  {% if procedural_resolutions %}
+  <!-- Procedural Resolutions -->
+  <tr>
+    <td class="content-pad" style="padding:28px 40px 8px;">
+      <hr style="border:none;border-top:2px solid #e0e0e0;margin:0 0 12px;">
+      <h2 style="font-size:17px;font-weight:700;color:#616161;margin:0;font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;">
+        Procedural Resolutions ({{ procedural_resolutions|length }})
+      </h2>
+      <p style="font-size:13px;color:#7a7a9a;margin:0 0 16px;font-style:italic;">
+        House Rules Committee resolutions setting terms for floor debate
+      </p>
+
+      {% for res in procedural_resolutions %}
+      <div class="res-card procedural">
+        <p class="res-label house" style="margin:0 0 6px;">
+          {{ res.chamber }}
+          <span class="cat-badge procedural" style="margin-left:8px;">Procedural</span>
+        </p>
+        <a class="res-number" href="{{ res.congress_url }}">
+          {{ res.res_type.upper() }} {{ res.number }}
+        </a>
+        <p class="res-title" style="font-size:14px;">{{ res.title[:200] }}{% if res.title|length > 200 %}...{% endif %}</p>
+        <p class="res-meta">
+          {% if res.sponsor %}<strong>Sponsor:</strong> {{ res.sponsor }}<br>{% endif %}
+          <strong>Passed:</strong>
+          <span class="method-badge {{ 'uc' if 'Unanimous' in res.passage_method else 'roll' if 'Roll' in res.passage_method else 'voice' if 'Voice' in res.passage_method else 'other' }}">
+            {{ res.passage_method }}
+          </span>
+        </p>
+        <div class="res-links">
+          <a href="{{ res.congress_url }}">Congress.gov</a>
+        </div>
+      </div>
+      {% endfor %}
+    </td>
+  </tr>
+  {% endif %}
+
+  {% if commemorative_resolutions %}
+  <!-- Commemorative Resolutions -->
+  <tr>
+    <td class="content-pad" style="padding:28px 40px 8px;">
+      <hr style="border:none;border-top:2px solid #e8e8f0;margin:0 0 12px;">
+      <h2 style="font-size:17px;font-weight:700;color:#7b1fa2;margin:0;font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;">
+        Commemorative Resolutions ({{ commemorative_resolutions|length }})
+      </h2>
+      <p style="font-size:13px;color:#7a7a9a;margin:0 0 16px;font-style:italic;">
+        Designations, recognitions, and commemorations
+      </p>
+
+      {% for res in commemorative_resolutions %}
+      <div class="res-card">
+        <p class="res-label {{ 'senate' if res.chamber == 'Senate' else 'house' }}" style="margin:0 0 6px;">
+          {{ res.chamber }}
+          <span class="cat-badge commemorative" style="margin-left:8px;">Commemorative</span>
+        </p>
+        <a class="res-number" href="{{ res.congress_url }}">
+          {{ res.res_type.upper() }} {{ res.number }}
+        </a>
+        <p class="res-title">{{ res.title }}</p>
+        <p class="res-meta">
+          {% if res.sponsor %}<strong>Sponsor:</strong> {{ res.sponsor }}{% if res.cosponsor_count %} + {{ res.cosponsor_count }} cosponsor{{ "s" if res.cosponsor_count != 1 }}{% endif %}<br>{% endif %}
+          <strong>Passed:</strong>
+          <span class="method-badge {{ 'uc' if 'Unanimous' in res.passage_method else 'roll' if 'Roll' in res.passage_method else 'voice' if 'Voice' in res.passage_method else 'other' }}">
+            {{ res.passage_method }}
+          </span>
+        </p>
+        <div class="res-links">
+          <a href="{{ res.congress_url }}">Congress.gov</a>
+          {% if res.text_url %}<a href="{{ res.text_url }}">Full Text</a>{% endif %}
+          {% if res.cr_reference %}<a href="https://www.congress.gov/congressional-record/{{ res.passage_date | replace('-', '/') }}">{{ res.cr_reference }}</a>{% else %}<a href="https://www.congress.gov/congressional-record/{{ res.passage_date | replace('-', '/') }}">Congressional Record</a>{% endif %}
+        </div>
+      </div>
+      {% endfor %}
+    </td>
+  </tr>
+  {% endif %}
 
   {% else %}
   <!-- Empty State -->
-  <div class="empty-state">
-    <h2>No Resolutions Passed</h2>
-    <p>No resolutions were passed on {{ date_formatted }}. This could mean Congress was not in session.</p>
-  </div>
+  <tr>
+    <td class="content-pad" style="text-align:center;padding:48px 40px;color:#7a7a9a;">
+      <h2 style="font-size:20px;color:#4a4a6a;margin:0 0 8px;">No Resolutions Passed</h2>
+      <p style="font-size:15px;margin:0;">No resolutions were agreed to on {{ date_formatted }}.</p>
+    </td>
+  </tr>
   {% endif %}
 
   <!-- Footer -->
-  <div class="footer">
-    <p>Data sourced from the <a href="https://api.congress.gov/">Congress.gov API</a></p>
-    <p>This alert is generated automatically. Resolution text may appear in the
-      <a href="https://www.congress.gov/congressional-record">Congressional Record</a>
-      before it appears on individual congress.gov bill pages.</p>
-    <p style="margin-top: 12px;">Congressional Resolution Alert System</p>
-  </div>
+  <tr>
+    <td class="content-pad" style="background:#f8f8fc;border-top:1px solid #e8e8f0;padding:24px 40px;text-align:center;font-family:-apple-system,'Segoe UI',Helvetica,Arial,sans-serif;font-size:12px;color:#8a8aa8;">
+      <p style="margin:4px 0;">Data sourced from the <a href="https://api.congress.gov/" style="color:#2c3e8c;text-decoration:none;">Congress.gov API</a></p>
+      <p style="margin:4px 0;">Resolution text may appear in the
+        <a href="https://www.congress.gov/congressional-record" style="color:#2c3e8c;text-decoration:none;">Congressional Record</a>
+        before it appears on individual congress.gov bill pages.</p>
+      <p style="margin:12px 0 4px;">Congressional Resolution Alert System</p>
+    </td>
+  </tr>
 
-</div>
+</table>
+</td></tr>
+</table>
+
 </body>
 </html>

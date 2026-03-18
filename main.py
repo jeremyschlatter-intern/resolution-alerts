@@ -52,7 +52,7 @@ def run_alert(target_date: date, send: bool = False) -> int:
 
     # Send email if requested
     if send:
-        send_alert_email(html, plaintext, target_date)
+        send_alert_email(html, plaintext, target_date, resolution_count=len(resolutions))
 
     return len(resolutions)
 

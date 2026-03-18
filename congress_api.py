@@ -81,6 +81,12 @@ class CongressAPI:
         data = self._get(path)
         return data.get("textVersions", [])
 
+    def get_bill_cosponsors(self, res_type: str, number: int) -> dict:
+        """Get cosponsor information for a specific bill/resolution."""
+        path = f"/bill/{CURRENT_CONGRESS}/{res_type}/{number}/cosponsors"
+        data = self._get(path)
+        return data
+
     def get_bill_subjects(self, res_type: str, number: int) -> dict:
         """Get subjects/policy area for a specific bill/resolution."""
         path = f"/bill/{CURRENT_CONGRESS}/{res_type}/{number}/subjects"

@@ -17,12 +17,24 @@ RESOLUTION_TYPES = [
     ("hres", "House Simple Resolution", "Simple resolutions address matters of one chamber"),
 ]
 
-# Action codes that indicate passage
+# Action codes that DEFINITIVELY indicate passage (Library of Congress codes)
+# These only appear when the resolution actually passed.
 PASSAGE_ACTION_CODES = {
-    "17000",  # Passed/agreed to in Senate (Library of Congress)
-    "8000",   # Passed/agreed to in House (Library of Congress)
-    "H37100", # On agreeing to the resolution (House floor)
-    "H37300", # On motion to suspend the rules and agree (House floor)
+    "17000",  # Passed/agreed to in Senate
+    "8000",   # Passed/agreed to in House
+}
+
+# Action codes that indicate a vote OCCURRED but may be passage or failure.
+# Must check the action text for "Failed" before treating as passage.
+VOTE_ACTION_CODES = {
+    "H37100", # On agreeing to the resolution (House floor) - can be pass or fail
+    "H37300", # On motion to suspend the rules and agree (House floor) - can be pass or fail
+}
+
+# Action codes that indicate FAILURE (to explicitly filter out)
+FAILURE_ACTION_CODES = {
+    "9000",   # Failed of passage/not agreed to in House (Library of Congress)
+    "10000",  # Failed of passage/not agreed to in Senate (Library of Congress)
 }
 
 # Text patterns in latestAction that suggest passage (for quick filtering)

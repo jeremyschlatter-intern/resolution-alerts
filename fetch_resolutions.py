@@ -8,6 +8,8 @@ from congress_api import CongressAPI
 from config import (
     RESOLUTION_TYPES,
     PASSAGE_ACTION_CODES,
+    VOTE_ACTION_CODES,
+    FAILURE_ACTION_CODES,
     PASSAGE_KEYWORDS,
 )
 
@@ -29,6 +31,54 @@ class PassedResolution:
     text_content: str = ""
     vote_result: str = ""
     chamber: str = ""
+    category: str = ""      # "commemorative", "procedural", "substantive"
+    cosponsor_count: int = 0
+    cr_reference: str = ""  # Congressional Record page reference (e.g., "CR S1051")
+
+
+# Patterns that identify commemorative resolutions
+_COMMEMORATIVE_PATTERNS = [
+    r"designating .* as ",
+    r"recognizing .* (day|week|month|year|anniversary)",
+    r"celebrating the",
+    r"honoring the (life|memory|legacy|service)",
+    r"expressing support for the designation",
+    r"supporting the goals and ideals of",
+    r"commemorat",
+]
+
+# Patterns that identify House Rules Committee procedural resolutions
+_PROCEDURAL_PATTERNS = [
+    r"providing for consideration of",
+    r"waiving a requirement of clause",
+    r"relating to consideration of",
+]
+
+
+def _classify_resolution(title: str, res_type: str) -> str:
+    """Classify a resolution as commemorative, procedural, or substantive."""
+    title_lower = title.lower()
+
+    # Check procedural patterns (House rules)
+    for pattern in _PROCEDURAL_PATTERNS:
+        if re.search(pattern, title_lower):
+            return "procedural"
+
+    # Check commemorative patterns
+    for pattern in _COMMEMORATIVE_PATTERNS:
+        if re.search(pattern, title_lower):
+            return "commemorative"
+
+    return "substantive"
+
+
+def _extract_cr_reference(action_text: str) -> str:
+    """Extract Congressional Record page reference from action text."""
+    # Patterns like "(consideration: CR S1051; text: CR S1051)" or "(text: CR S712)"
+    match = re.search(r'\((?:consideration: )?(CR [SH]\d+)', action_text)
+    if match:
+        return match.group(1)
+    return ""
 
 
 def _detect_passage_method(action_text: str) -> str:
@@ -124,35 +174,51 @@ def fetch_passed_resolutions(target_date: date, api: CongressAPI = None) -> list
                     print(f"    Warning: could not fetch actions for {res_code.upper()} {number}: {e}")
                     continue
 
+                # First, check if any action explicitly marks this as FAILED
+                failed_on_target = False
                 passage_action = None
+
                 for action in actions:
                     code = action.get("actionCode", "")
                     action_dt = action.get("actionDate", "")
                     action_text = action.get("text", "")
 
-                    # Check if this is a passage action on our target date
-                    if action_dt == target_str:
-                        if code in PASSAGE_ACTION_CODES:
-                            # Prefer Library of Congress codes (17000, 8000) over
-                            # chamber-specific codes to avoid double-counting
-                            if code in ("17000", "8000"):
-                                passage_action = action
-                                break
-                            elif passage_action is None:
-                                passage_action = action
-                                # Don't break — keep looking for a LoC code
-                        # Also check text patterns for codes we might have missed
-                        elif passage_action is None:
-                            text_lower = action_text.lower()
-                            if any(kw in text_lower for kw in [
-                                "passed/agreed to",
-                                "agreed to in senate",
-                                "agreed to in house",
-                                "considered, and agreed to",
-                            ]):
-                                passage_action = action
+                    if action_dt != target_str:
+                        continue
 
-                if passage_action is None:
+                    # Explicit failure codes — skip this resolution entirely
+                    if code in FAILURE_ACTION_CODES:
+                        failed_on_target = True
+                        break
+
+                    # Check text for failure language
+                    text_lower = action_text.lower()
+                    if "failed" in text_lower and ("passage" in text_lower or "agreeing" in text_lower):
+                        failed_on_target = True
+                        break
+
+                    # Definitive passage codes from Library of Congress
+                    if code in PASSAGE_ACTION_CODES:
+                        passage_action = action
+                        break
+
+                    # Ambiguous vote codes — check text to confirm passage
+                    if code in VOTE_ACTION_CODES:
+                        if "failed" not in text_lower:
+                            passage_action = action
+                            # Don't break — keep looking for a definitive LoC code
+
+                    # Text-based detection as fallback
+                    if passage_action is None:
+                        if any(kw in text_lower for kw in [
+                            "passed/agreed to",
+                            "agreed to in senate",
+                            "agreed to in house",
+                            "considered, and agreed to",
+                        ]) and "failed" not in text_lower:
+                            passage_action = action
+
+                if failed_on_target or passage_action is None:
                     continue
 
                 # Found a passed resolution! Get more details.
@@ -202,6 +268,26 @@ def fetch_passed_resolutions(target_date: date, api: CongressAPI = None) -> list
                 except Exception:
                     pass
 
+                # Get cosponsor count
+                cosponsor_count = 0
+                try:
+                    cosponsors_data = api.get_bill_cosponsors(res_code, number)
+                    # Count is in the pagination section
+                    pagination = cosponsors_data.get("pagination", {})
+                    cosponsor_count = pagination.get("count", 0)
+                    if not cosponsor_count:
+                        # Fallback: count the list directly
+                        cosponsor_count = len(cosponsors_data.get("cosponsors", []))
+                except Exception:
+                    pass
+
+                # Classify the resolution
+                title = bill.get("title", "")
+                category = _classify_resolution(title, res_code)
+
+                # Extract Congressional Record reference
+                cr_reference = _extract_cr_reference(passage_text)
+
                 congress_url = f"https://www.congress.gov/bill/119th-congress/{_type_to_url_segment(res_code)}/{number}"
 
                 results.append(PassedResolution(
@@ -209,7 +295,7 @@ def fetch_passed_resolutions(target_date: date, api: CongressAPI = None) -> list
                     type_label=type_label,
                     type_description=type_desc,
                     number=number,
-                    title=bill.get("title", ""),
+                    title=title,
                     passage_date=target_str,
                     passage_text=passage_text,
                     passage_method=passage_method,
@@ -218,9 +304,13 @@ def fetch_passed_resolutions(target_date: date, api: CongressAPI = None) -> list
                     text_url=text_url,
                     chamber=chamber,
                     vote_result=vote_result,
+                    category=category,
+                    cosponsor_count=cosponsor_count,
+                    cr_reference=cr_reference,
                 ))
 
-                print(f"    Found: {res_code.upper()} {number} - {bill.get('title', '')[:60]}...")
+                cat_label = f" [{category}]" if category != "substantive" else ""
+                print(f"    Found: {res_code.upper()} {number}{cat_label} - {title[:60]}...")
 
             if len(bills) < 250:
                 break
