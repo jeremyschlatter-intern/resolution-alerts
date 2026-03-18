@@ -92,3 +92,42 @@ class CongressAPI:
         path = f"/bill/{CURRENT_CONGRESS}/{res_type}/{number}/subjects"
         data = self._get(path)
         return data
+
+    # --- Congressional Record ---
+
+    def get_daily_cr_issues(self, limit: int = 20) -> list[dict]:
+        """Get recent Daily Congressional Record issues."""
+        path = "/daily-congressional-record"
+        data = self._get(path, {"limit": limit})
+        return data.get("dailyCongressionalRecord", [])
+
+    def get_cr_articles(self, volume: int, issue: int, section: str = None) -> list[dict]:
+        """Get articles for a specific Congressional Record issue.
+
+        The API returns sections, each containing sectionArticles.
+        This flattens them into a single list, optionally filtered by section name.
+        """
+        path = f"/daily-congressional-record/{volume}/{issue}/articles"
+        data = self._get(path, {"limit": 250})
+        sections = data.get("articles", [])
+
+        all_articles = []
+        for sec in sections:
+            sec_name = sec.get("name", "")
+            if section and section.lower() not in sec_name.lower():
+                continue
+            for article in sec.get("sectionArticles", []):
+                article["_section"] = sec_name
+                all_articles.append(article)
+        return all_articles
+
+    def fetch_cr_article_html(self, url: str) -> str:
+        """Fetch the HTML content of a Congressional Record article."""
+        elapsed = time.time() - self._last_request_time
+        if elapsed < self._min_interval:
+            time.sleep(self._min_interval - elapsed)
+
+        resp = self.session.get(url, timeout=30)
+        self._last_request_time = time.time()
+        resp.raise_for_status()
+        return resp.text

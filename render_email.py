@@ -75,11 +75,29 @@ def render_plaintext(resolutions: list[PassedResolution], target_date: date) -> 
             lines.append(f"  Passed: {res.passage_method}")
             if res.vote_result:
                 lines.append(f"  Vote: {res.vote_result}")
+            if res.passage_time:
+                lines.append(f"  Time: {res.passage_time}")
             lines.append(f"  Link: {res.congress_url}")
             if res.text_url:
                 lines.append(f"  Full Text: {res.text_url}")
-            if res.cr_reference:
+            if res.cr_html_url:
+                lines.append(f"  Congressional Record: {res.cr_html_url}")
+            elif res.cr_reference:
                 lines.append(f"  Congressional Record: {res.cr_reference}")
+            if res.cr_excerpt:
+                lines.append(f"  ---")
+                # Wrap excerpt to 70 chars
+                words = res.cr_excerpt.split()
+                line = "  "
+                for word in words:
+                    if len(line) + len(word) + 1 > 70:
+                        lines.append(line)
+                        line = "  " + word
+                    else:
+                        line += " " + word if line.strip() else "  " + word
+                if line.strip():
+                    lines.append(line)
+                lines.append(f"  ---")
             lines.append("")
 
     lines.append("=" * 60)
