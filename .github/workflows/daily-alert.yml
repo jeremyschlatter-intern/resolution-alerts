@@ -1,0 +1,59 @@
+name: Daily Resolution Alert
+
+on:
+  schedule:
+    # Run at 8:00 AM ET (13:00 UTC) Monday-Saturday
+    # Congress typically passes resolutions during weekday sessions
+    - cron: '0 13 * * 1-6'
+  workflow_dispatch:
+    inputs:
+      date:
+        description: 'Target date (YYYY-MM-DD). Leave blank for yesterday.'
+        required: false
+        type: string
+
+jobs:
+  generate-alert:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests jinja2
+
+      - name: Generate alert
+        env:
+          CONGRESS_API_KEY: ${{ secrets.CONGRESS_API_KEY }}
+        run: |
+          if [ -n "${{ inputs.date }}" ]; then
+            python main.py --date "${{ inputs.date }}"
+          else
+            python main.py
+          fi
+
+      - name: Commit and push output
+        run: |
+          git config user.name "Resolution Alert Bot"
+          git config user.email "bot@resolution-alerts.example.com"
+          git add output/
+          git diff --staged --quiet || git commit -m "Alert for $(date -d yesterday +%Y-%m-%d)"
+          git push
+
+      # Optional: Send email via SendGrid or similar
+      # - name: Send email
+      #   env:
+      #     SMTP_HOST: ${{ secrets.SMTP_HOST }}
+      #     SMTP_USER: ${{ secrets.SMTP_USER }}
+      #     SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+      #     EMAIL_FROM: ${{ secrets.EMAIL_FROM }}
+      #     EMAIL_TO: ${{ secrets.EMAIL_TO }}
+      #   run: python main.py --send
