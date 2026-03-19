@@ -1,0 +1,26 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Wednesday, March 18, 2026
+============================================================
+
+2 resolution(s) passed
+
+--- SUBSTANTIVE (1) ---
+
+  SRES 650 [Senate]
+  A resolution recognizing the heritage, culture, and contributions of American Indian, Alaska Native, and Native Hawaiian women in the United States.
+  Sponsor: Sen. Murkowski, Lisa [R-AK] + 39 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/650
+
+--- COMMEMORATIVE (1) ---
+
+  SRES 649 [Senate]
+  A resolution commemorating the 250th anniversary of the passage of the resolution of March 16, 1776, which declared May 17 as a day of humiliation, fasting, and prayer.
+  Sponsor: Sen. Lankford, James [R-OK] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/649
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
