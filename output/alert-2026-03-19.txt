@@ -1,0 +1,24 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Thursday, March 19, 2026
+============================================================
+
+2 resolution(s) passed
+
+--- COMMEMORATIVE (2) ---
+
+  SRES 652 [Senate]
+  A resolution recognizing the importance of the United States-Japan Alliance and welcoming the visit of Prime Minister Takaichi Sanae to the United States.
+  Sponsor: Sen. Hagerty, Bill [R-TN] + 9 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/652
+
+  SRES 653 [Senate]
+  A resolution designating March 21, 2026, as "National Women in Agriculture Day".
+  Sponsor: Sen. Ernst, Joni [R-IA] + 30 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/653
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
