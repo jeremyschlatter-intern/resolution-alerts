@@ -1,0 +1,26 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Sunday, March 22, 2026
+============================================================
+
+2 resolution(s) passed
+
+--- SUBSTANTIVE (1) ---
+
+  SRES 655 [Senate]
+  A resolution expressing support for the annual designation of the first Saturday after the Spring Equinox as "National Day of Play".
+  Sponsor: Sen. Ricketts, Pete [R-NE] + 8 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/655
+
+--- COMMEMORATIVE (1) ---
+
+  SRES 656 [Senate]
+  A resolution designating the third week of March 2026 as "National CACFP Week".
+  Sponsor: Sen. Boozman, John [R-AR] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/656
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
