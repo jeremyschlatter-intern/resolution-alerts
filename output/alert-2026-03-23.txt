@@ -1,0 +1,36 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Monday, March 23, 2026
+============================================================
+
+2 resolution(s) passed
+
+--- SUBSTANTIVE (1) ---
+
+  SCONRES 29 [Senate]
+  A concurrent resolution authorizing the use of Emancipation Hall in the Capitol Visitor Center for an event to celebrate the birthday of King Kamehameha I.
+  Sponsor: Sen. Hirono, Mazie K. [D-HI] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-concurrent-resolution/29
+  Full Text: https://www.congress.gov/119/bills/sconres29/BILLS-119sconres29es.pdf
+
+--- COMMEMORATIVE (1) ---
+
+  SRES 660 [Senate]
+  A resolution honoring the service and sacrifice of Air Force Major John A. Klinner, Air Force Major Ariana G. Savino, Air Force Technical Sergeant Ashley B. Pruitt, Air Force Captain Seth R. Koval, Air Force Captain Curtis J. Angst, and Air Force Master Sergeant Tyler H. Simmons.
+  Sponsor: Sen. Britt, Katie Boyd [R-AL] + 6 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/660
+  Congressional Record: https://www.congress.gov/119/crec/2026/03/23/172/54/modified/CREC-2026-03-23-pt1-PgS1546-3.htm
+  ---
+    Whereas the men and women who perished during an accident
+  involving a KC-135 Stratotanker refueling aircraft operating over
+  western Iraq while in support of Operation Epic Fury on March 12,
+  2026, represent the best of the United States of America; Whereas
+  Major John A. Klinner of Auburn, Alabama, Major Ariana G. Savino of
+  Covington, Washington, and Technical Sergeant Ashley B.
+  ---
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
