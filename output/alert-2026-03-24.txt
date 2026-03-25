@@ -1,0 +1,20 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Tuesday, March 24, 2026
+============================================================
+
+1 resolution(s) passed
+
+--- SUBSTANTIVE (1) ---
+
+  HCONRES 73 [House]
+  Authorizing the use of the Capitol Grounds for the National Peace Officers' Memorial Service and the National Honor Guard and Pipe Band Exhibition.
+  Sponsor: Rep. Perry, Scott [R-PA-10] + 1 cosponsor(s)
+  Passed: Voice Vote
+  Time: 16:04
+  Link: https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/73
+  Full Text: https://www.congress.gov/119/bills/hconres73/BILLS-119hconres73rh.pdf
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
