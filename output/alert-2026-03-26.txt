@@ -1,0 +1,21 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Thursday, March 26, 2026
+============================================================
+
+1 resolution(s) passed
+
+--- SUBSTANTIVE (1) ---
+
+  HRES 1128 [House]
+  Expressing the support of the House of Representatives for the Department of Homeland Security.
+  Sponsor: Rep. Mackenzie, Ryan [R-PA-7] + 14 cosponsor(s)
+  Passed: Roll Call Vote (225-187)
+  Vote: Roll no. 102
+  Time: 15:12
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1128
+  Full Text: https://www.congress.gov/119/bills/hres1128/BILLS-119hres1128ih.pdf
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
