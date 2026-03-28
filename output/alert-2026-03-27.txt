@@ -1,0 +1,52 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Friday, March 27, 2026
+============================================================
+
+5 resolution(s) passed
+
+--- SUBSTANTIVE (2) ---
+
+  SRES 664 [Senate]
+  A resolution to constitute the majority party's membership on certain committees for the One Hundred Nineteenth Congress, or until their successors are chosen.
+  Sponsor: Sen. Thune, John [R-SD]
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/664
+  Congressional Record: CR S1690
+
+  HRES 1142 [House]
+  Providing for disposition of the Senate amendment to the bill (H.R. 7147) making further consolidated appropriations for the fiscal year ending September 30, 2026, and for other purposes.
+  Sponsor: Rep. Fischbach, Michelle [R-MN-7]
+  Passed: Agreed To
+  Vote: Roll no. 108
+  Time: 23:26
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1142
+  Full Text: https://www.congress.gov/119/bills/hres1142/BILLS-119hres1142rh.pdf
+
+--- COMMEMORATIVE (3) ---
+
+  SRES 647 [Senate]
+  A resolution designating March 21, 2026, as "National Osceola Turkey Day".
+  Sponsor: Sen. Scott, Rick [R-FL] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/647
+  Full Text: https://www.congress.gov/119/bills/sres647/BILLS-119sres647is.pdf
+  Congressional Record: CR S1690
+
+  SRES 665 [Senate]
+  A resolution designating April 2026 as "National Native Plant Month".
+  Sponsor: Sen. Hyde-Smith, Cindy [R-MS] + 8 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/665
+  Congressional Record: CR S1690
+
+  SRES 666 [Senate]
+  A resolution designating the first week of April as "National Asbestos Awareness Week".
+  Sponsor: Sen. Merkley, Jeff [D-OR] + 5 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/666
+  Congressional Record: CR S1690
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
