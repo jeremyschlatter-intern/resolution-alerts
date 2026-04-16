@@ -1,0 +1,45 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Wednesday, April 15, 2026
+============================================================
+
+4 resolution(s) passed
+
+--- SUBSTANTIVE (1) ---
+
+  HRES 1176 [House]
+  Electing Members to certain standing committees of the House of Representatives.
+  Sponsor: Rep. Langworthy, Nicholas A. [R-NY-23]
+  Passed: Without Objection
+  Time: 10:23
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1176
+
+--- PROCEDURAL (1) ---
+
+  HRES 1174 [House]
+  Providing for consideration of the bill (H.R. 6387) to amend the Clean Air Act to require revisions to regulations governing the review and handling of air quality monitoring data influenced by exceptional events or actions to mitigate wildfire risk; providing for consideration of the bill (H.R. 6398) to amend the Clean Air Act relating to review by the Environmental Protection Agency of proposed legislation; providing for consideration of the bill (H.R. 6409) to amend the Clean Air Act to clarify standards for emissions emanating from outside of the United States, and for other purposes; and providing for consideration of the resolution (H. Res. 1156) expressing support for tax policies that support working families.
+  Sponsor: Rep. Langworthy, Nicholas A. [R-NY-23]
+  Passed: Agreed To
+  Vote: Roll no. 112
+  Time: 13:37
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1174
+  Full Text: https://www.congress.gov/119/bills/hres1174/BILLS-119hres1174rh.pdf
+
+--- COMMEMORATIVE (2) ---
+
+  SRES 627 [Senate]
+  A resolution designating March 5, 2026, as "National Slam the Scam Day" to raise awareness about pervasive scams and to prevent government imposter scams and other types of scams by promoting education about such scams.
+  Sponsor: Sen. Scott, Rick [R-FL] + 9 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/627
+  Full Text: https://www.congress.gov/119/bills/sres627/BILLS-119sres627is.pdf
+
+  SRES 673 [Senate]
+  A resolution supporting the goals and ideals of National Safe Digging Month.
+  Sponsor: Sen. Young, Todd [R-IN] + 3 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/673
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
