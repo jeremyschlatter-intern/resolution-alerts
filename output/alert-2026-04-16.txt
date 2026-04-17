@@ -1,0 +1,40 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Thursday, April 16, 2026
+============================================================
+
+3 resolution(s) passed
+
+--- SUBSTANTIVE (1) ---
+
+  HRES 1156 [House]
+  Expressing support for tax policies that support working families.
+  Sponsor: Rep. Kelly, Mike [R-PA-16] + 25 cosponsor(s)
+  Passed: Roll Call Vote (219-207)
+  Vote: Roll no. 121
+  Time: 14:30
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1156
+  Full Text: https://www.congress.gov/119/bills/hres1156/BILLS-119hres1156eh.pdf
+
+--- PROCEDURAL (1) ---
+
+  HRES 965 [House]
+  Providing for consideration of the bill (H.R. 1689) to require the Secretary of Homeland Security to designate Haiti for temporary protected status.
+  Sponsor: Rep. Pressley, Ayanna [D-MA-7]
+  Passed: Roll Call Vote (220-207)
+  Vote: Roll no. 119
+  Time: 12:43
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/965
+  Full Text: https://www.congress.gov/119/bills/hres965/BILLS-119hres965eh.pdf
+
+--- COMMEMORATIVE (1) ---
+
+  SRES 679 [Senate]
+  A resolution recognizing April 14, 2026, as "World Quantum Day", and commemorating and supporting the goals of World Quantum Day.
+  Sponsor: Sen. Young, Todd [R-IN] + 3 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/679
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
