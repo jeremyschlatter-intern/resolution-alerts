@@ -1,0 +1,38 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Monday, April 20, 2026
+============================================================
+
+2 resolution(s) passed
+
+--- SUBSTANTIVE (2) ---
+
+  SCONRES 29 [Senate]
+  A concurrent resolution authorizing the use of Emancipation Hall in the Capitol Visitor Center for an event to celebrate the birthday of King Kamehameha I.
+  Sponsor: Sen. Hirono, Mazie K. [D-HI] + 1 cosponsor(s)
+  Passed: Without Objection
+  Time: 19:32
+  Link: https://www.congress.gov/bill/119th-congress/senate-concurrent-resolution/29
+  Full Text: https://www.congress.gov/119/bills/sconres29/BILLS-119sconres29es.pdf
+  Congressional Record: CR H2982
+
+  SRES 681 [Senate]
+  A resolution relating to the life and death of Chuck Norris.
+  Sponsor: Sen. Lankford, James [R-OK] + 1 cosponsor(s)
+  Passed: Voice Vote
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/681
+  Congressional Record: https://www.congress.gov/119/crec/2026/04/20/172/69/modified/CREC-2026-04-20-pt1-PgS1842-2.htm
+  ---
+    Whereas Carlos Ray ``Chuck'' Norris was born in Ryan, Oklahoma, on
+  March 10, 1940, and passed at the age of 86 on March 19, 2026, in
+  Hawaii; Whereas, at age 12, Norris moved to Torrance, California;
+  Whereas, in 1958, Norris enlisted in the United States Air Force and
+  was given the occupational specialty of air police, now called Air
+  Force Security Forces; Whereas Norris spent 1 year at an Air Force
+  base in Arizona and then deployed to Osan Air Base in South Korea;
+  Whereas, while stationed in Sou...
+  ---
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
