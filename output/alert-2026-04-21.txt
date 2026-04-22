@@ -1,0 +1,26 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Tuesday, April 21, 2026
+============================================================
+
+2 resolution(s) passed
+
+--- SUBSTANTIVE (2) ---
+
+  HRES 1201 [House]
+  Electing Members to certain standing committees of the House of Representatives.
+  Sponsor: Rep. Moore, Blake D. [R-UT-1]
+  Passed: Without Objection
+  Time: 12:06
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1201
+
+  HRES 1202 [House]
+  Electing a Member to a certain standing committee of the House of Representatives.
+  Sponsor: Rep. Aguilar, Pete [D-CA-33]
+  Passed: Without Objection
+  Time: 15:55
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1202
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
