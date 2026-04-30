@@ -1,0 +1,64 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Wednesday, April 29, 2026
+============================================================
+
+7 resolution(s) passed
+
+--- SUBSTANTIVE (2) ---
+
+  SCONRES 33 [Senate]
+  A concurrent resolution setting forth the congressional budget for the United States Government for fiscal year 2026 and setting forth the appropriate budgetary levels for fiscal years 2027 through 2035.
+  Sponsor: Sen. Graham, Lindsey [R-SC]
+  Passed: Roll Call Vote (215-211)
+  Vote: Roll no. 143
+  Time: 22:39
+  Link: https://www.congress.gov/bill/119th-congress/senate-concurrent-resolution/33
+  Full Text: https://www.congress.gov/119/bills/sconres33/BILLS-119sconres33es.pdf
+
+  SRES 705 [Senate]
+  A resolution commending the "Donut Dollies" for their patriotic service and steadfast support of United States servicemembers in combat and honoring their extraordinary contributions to the morale and well-being of United States servicemembers during wartime.
+  Sponsor: Sen. Tillis, Thomas [R-NC] + 3 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/705
+
+--- PROCEDURAL (1) ---
+
+  HRES 1224 [House]
+  Providing for consideration of the bill (H.R. 7567) to provide for the reform and continuation of agricultural and other programs of the Department of Agriculture through fiscal year 2031, and for other purposes; providing for consideration of the bill (H.R. 2616) to require public elementary and middle schools that receive funds under the Elementary and Secondary Education Act of 1965 to obtain parental consent before changing a minor's gender markers, pronouns, or preferred name on any school form or sex-based accommodations, including locker rooms or bathrooms; providing for consideration of the concurrent resolution (S. Con. Res. 33) setting forth the congressional budget for the United States Government for fiscal year 2026 and setting forth the appropriate budgetary levels for fiscal years 2027 through 2035; providing for consideration of the bill (S. 1318) to direct the American Battle Monuments Commission to establish a program to identify American-Jewish servicemembers buried in United States military cemeteries overseas under markers that incorrectly represent their religion and heritage, and for other purposes; providing for consideration of the bill (H.R. 1346) to amend the Clean Air Act with respect to the ethanol waiver for Reid Vapor Pressure under that Act, and for other purposes; and for other purposes.
+  Sponsor: Rep. Scott, Austin [R-GA-8]
+  Passed: Agreed To
+  Vote: Roll no. 141
+  Time: 13:24
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1224
+  Full Text: https://www.congress.gov/119/bills/hres1224/BILLS-119hres1224rh.pdf
+
+--- COMMEMORATIVE (4) ---
+
+  SRES 701 [Senate]
+  A resolution designating the week of April 20 through 26, 2026, as "National Dark Sky Week".
+  Sponsor: Sen. Cortez Masto, Catherine [D-NV] + 3 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/701
+
+  SRES 702 [Senate]
+  A resolution commending the American Chemical Society on the occasion of its 150th anniversary and recognizing its many years of service to the United States.
+  Sponsor: Sen. Coons, Christopher A. [D-DE] + 3 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/702
+
+  SRES 703 [Senate]
+  A resolution expressing support for the designation of the week of May 3, 2026, through May 9, 2026, as "National Small Business Week" to celebrate the contributions of small businesses and entrepreneurs in every community in the United States.
+  Sponsor: Sen. Ernst, Joni [R-IA] + 88 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/703
+
+  SRES 704 [Senate]
+  A resolution supporting the mission and goals of National Fentanyl Awareness Day in 2026, including increasing individual and public awareness of the impact of fake or counterfeit fentanyl pills on families and young people.
+  Sponsor: Sen. Grassley, Chuck [R-IA] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/704
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
