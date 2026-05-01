@@ -1,0 +1,38 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Thursday, April 30, 2026
+============================================================
+
+4 resolution(s) passed
+
+--- SUBSTANTIVE (1) ---
+
+  SRES 708 [Senate]
+  A resolution amending rule XXXVII of the Standing Rules of the Senate to prohibit Senators from trading on prediction markets.
+  Sponsor: Sen. Moreno, Bernie [R-OH]
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/708
+
+--- COMMEMORATIVE (3) ---
+
+  SRES 718 [Senate]
+  A resolution commending and congratulating the University of California, Los Angeles Bruins women's basketball team for winning the 2026 National Collegiate Athletic Association Division I Women's Basketball National Championship.
+  Sponsor: Sen. Schiff, Adam B. [D-CA] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/718
+
+  SRES 719 [Senate]
+  A resolution celebrating the 154th anniversary of Arbor Day.
+  Sponsor: Sen. Risch, James E. [R-ID] + 5 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/719
+
+  SRES 720 [Senate]
+  A resolution recognizing the significance of Asian American, Native Hawaiian, and Pacific Islander Heritage Month as an important time to celebrate the significant contributions of Asian Americans, Native Hawaiians, and Pacific Islanders to the history of the United States.
+  Sponsor: Sen. Hirono, Mazie K. [D-HI] + 29 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/720
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
