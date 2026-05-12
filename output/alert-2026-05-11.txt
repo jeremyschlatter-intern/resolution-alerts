@@ -1,0 +1,66 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Monday, May 11, 2026
+============================================================
+
+3 resolution(s) passed
+
+--- SUBSTANTIVE (1) ---
+
+  SRES 690 [Senate]
+  An executive resolution authorizing the en bloc consideration in Executive Session of certain nominations on the Executive Calendar.
+  Sponsor: Sen. Thune, John [R-SD]
+  Passed: Roll Call Vote (46-45)
+  Vote: Roll no. 114
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/690
+  Full Text: https://www.congress.gov/119/bills/sres690/BILLS-119sres690pcs.pdf
+  Congressional Record: https://www.congress.gov/119/crec/2026/05/11/172/79/modified/CREC-2026-05-11-pt1-PgS2193-4.htm
+  ---
+    [Pages S2193-S2194] From the Congressional Record Online through
+  the Government Publishing Office [ www.gpo.gov ] Vote on S. Res. 690
+  The PRESIDING OFFICER. The question occurs on adoption of the
+  resolution. Mr. SCHMITT. I ask for the yeas and nays. The PRESIDING
+  OFFICER. Is there a sufficient second? There appears to be a
+  sufficient second. The clerk will call the roll. The legislative
+  clerk called the roll. Mr. BARRASSO.
+  ---
+
+--- COMMEMORATIVE (2) ---
+
+  SRES 723 [Senate]
+  A resolution honoring the life of Dirk Arthur Kempthorne, former United States Senator for the State of Idaho.
+  Sponsor: Sen. Crapo, Mike [R-ID] + 99 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/723
+  Congressional Record: https://www.congress.gov/119/crec/2026/05/11/172/79/modified/CREC-2026-05-11-pt1-PgS2203.htm
+  ---
+    Whereas Dirk Kempthorne was born on October 29, 1951, in San
+  Diego, California and raised in San Bernardino, California, where he
+  graduated from San Gorgonio High School in 1970, before moving to
+  his long-time home, Idaho; Whereas, in 1975, Dirk Kempthorne
+  graduated from the University of Idaho, in Moscow, Idaho, with a
+  degree in political science and served as the student body president
+  of the University; Whereas, in 1977, Dirk Kempthorne married
+  Patricia Galvin atop Moscow Mountain; Whereas Di...
+  ---
+
+  SRES 724 [Senate]
+  A resolution recognizing the roles and contributions of the teachers of the United States in building and enhancing the civic, cultural, and economic well-being of the United States.
+  Sponsor: Sen. Collins, Susan M. [R-ME] + 22 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/724
+  Congressional Record: https://www.congress.gov/119/crec/2026/05/11/172/79/modified/CREC-2026-05-11-pt1-PgS2203-2.htm
+  ---
+    Whereas education and knowledge are the foundation of the current
+  and future strength of the United States; Whereas teachers and other
+  education staff have earned and deserve the respect of their [[Page
+  S2204]] students and communities for the selfless dedication of the
+  teachers and staff to community service and the futures of the
+  children of the United States; Whereas the purposes of National
+  Teacher Appreciation Week, celebrated from May 4, 2026, through May
+  8, 2026, are-- (1) to raise public...
+  ---
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
