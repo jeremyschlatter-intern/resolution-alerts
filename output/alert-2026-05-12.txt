@@ -1,0 +1,34 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Tuesday, May 12, 2026
+============================================================
+
+3 resolution(s) passed
+
+--- SUBSTANTIVE (1) ---
+
+  HCONRES 73 [House]
+  Authorizing the use of the Capitol Grounds for the National Peace Officers' Memorial Service and the National Honor Guard and Pipe Band Exhibition.
+  Sponsor: Rep. Perry, Scott [R-PA-10] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/73
+  Full Text: https://www.congress.gov/119/bills/hconres73/BILLS-119hconres73eh.pdf
+
+--- COMMEMORATIVE (2) ---
+
+  SRES 725 [Senate]
+  A resolution congratulating the University of Oklahoma women's gymnastics team for winning the 2026 National Collegiate Athletic Association Championship, the eighth national title in program history.
+  Sponsor: Sen. Lankford, James [R-OK] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/725
+
+  SRES 726 [Senate]
+  A resolution expressing support for the designation of May 5, 2026, as "National 
+Day of Awareness for Missing and Murdered Indigenous Women and Girls".
+  Sponsor: Sen. Daines, Steve [R-MT] + 22 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/726
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
