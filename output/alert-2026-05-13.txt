@@ -1,0 +1,83 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Wednesday, May 13, 2026
+============================================================
+
+8 resolution(s) passed
+
+--- SUBSTANTIVE (5) ---
+
+  HCONRES 96 [House]
+  Expressing support for law enforcement officers.
+  Sponsor: Rep. Nunn, Zachary [R-IA-3] + 25 cosponsor(s)
+  Passed: Roll Call Vote (243-173)
+  Vote: Roll no. 165
+  Time: 18:34
+  Link: https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/96
+  Full Text: https://www.congress.gov/119/bills/hconres96/BILLS-119hconres96ih.pdf
+
+  HRES 1251 [House]
+  Calling on elected officials and civil society leaders to counter antisemitism and educate the public on the contributions of the Jewish-American community.
+  Sponsor: Rep. Wasserman Schultz, Debbie [D-FL-25] + 11 cosponsor(s)
+  Passed: Roll Call Vote (419-0)
+  Vote: Roll no. 166
+  Time: 18:40
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1251
+  Full Text: https://www.congress.gov/119/bills/hres1251/BILLS-119hres1251ih.pdf
+
+  HRES 1252 [House]
+  Resolution memorializing law enforcement officers killed in the line of duty.
+  Sponsor: Rep. Guest, Michael [R-MS-3] + 126 cosponsor(s)
+  Passed: Roll Call Vote (418-2)
+  Vote: Roll no. 162
+  Time: 15:56
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1252
+  Full Text: https://www.congress.gov/119/bills/hres1252/BILLS-119hres1252ih.pdf
+
+  HRES 1259 [House]
+  Expressing the sense of the House of Representatives that the President should prioritize securing the release of Pastor Jin Mingri, Pastor Gao Quanfu and his wife Pang Yu, Dr. Gulshan Abbas, and Jimmy Lai detained by the People's Republic of China during future engagements with Chinese President Xi Jinping.
+  Sponsor: Rep. Smith, Christopher H. [R-NJ-4] + 3 cosponsor(s)
+  Passed: Roll Call Vote (414-0)
+  Vote: Roll no. 167
+  Time: 18:47
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1259
+  Full Text: https://www.congress.gov/119/bills/hres1259/BILLS-119hres1259ih.pdf
+
+  HRES 1274 [House]
+  Providing that section 11 of House Resolution 1224 shall have no force or effect.
+  Sponsor: Rep. Fischbach, Michelle [R-MN-7]
+  Passed: Agreed To
+  Vote: Roll no. 161
+  Time: 15:42
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1274
+  Full Text: https://www.congress.gov/119/bills/hres1274/BILLS-119hres1274rh.pdf
+
+--- PROCEDURAL (1) ---
+
+  HRES 1275 [House]
+  Providing for consideration of the bill (H.R. 5625) to direct the Attorney General to make publicly available a list of each State and unit of local government that permits cashless bail, and for other purposes; providing for consideration of the bill (H.R. 6260) to amend title 18, United States Code, to prohibit fraud in connection with posting bail; providing for consideration of the bill (H.R. 8365) to provide for conditions on the appointment of monitors by courts, and for other purposes; providing for consideration of the concurrent resolution (H. Con. Res. 96) expressing support for law enforcement officers; and providing for consideration of the bill (H.R. 8469) making appropriations for military construction, the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2027, and for other purposes.
+  Sponsor: Rep. Griffith, H. Morgan [R-VA-9]
+  Passed: Agreed To
+  Vote: Roll no. 159
+  Time: 15:28
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1275
+  Full Text: https://www.congress.gov/119/bills/hres1275/BILLS-119hres1275rh.pdf
+
+--- COMMEMORATIVE (2) ---
+
+  SRES 711 [Senate]
+  A resolution expressing support for the designation of May 2026 as "National Beef Month" to recognize the important role cattle play in the United States, and to consumers.
+  Sponsor: Sen. Ricketts, Pete [R-NE] + 5 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/711
+  Full Text: https://www.congress.gov/119/bills/sres711/BILLS-119sres711is.pdf
+
+  SRES 728 [Senate]
+  A resolution expressing the sense of the Senate that the President should prioritize securing the release of Pastor Jin Mingri, Pastor Gao Quanfu and his wife Pang Yu, Jimmy Lai, Dr. Gulshan Abbas, and Ekpar Asat detained by the People's Republic of China during future engagements with Chinese President Xi Jingping.
+  Sponsor: Sen. Durbin, Richard J. [D-IL] + 14 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/728
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
