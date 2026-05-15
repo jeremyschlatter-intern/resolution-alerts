@@ -1,0 +1,77 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Thursday, May 14, 2026
+============================================================
+
+10 resolution(s) passed
+
+--- SUBSTANTIVE (2) ---
+
+  SRES 526 [Senate]
+  A resolution withholding the pay of Senators if a Government shutdown occurs.
+  Sponsor: Sen. Kennedy, John [R-LA] + 4 cosponsor(s)
+  Passed: Voice Vote
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/526
+  Full Text: https://www.congress.gov/119/bills/sres526/BILLS-119sres526rs.pdf
+
+  SRES 729 [Senate]
+  A resolution recognizing and honoring Meriwether Lewis and William Clark, and the Corps of Discovery, for their expedition to explore the Louisiana Purchase.
+  Sponsor: Sen. Schmitt, Eric [R-MO]
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/729
+
+--- COMMEMORATIVE (8) ---
+
+  SRES 680 [Senate]
+  A resolution commemorating the 10th anniversary of the Columbine Day of Service and honoring the memories of the victims, survivors, and their families.
+  Sponsor: Sen. Bennet, Michael F. [D-CO] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/680
+  Full Text: https://www.congress.gov/119/bills/sres680/BILLS-119sres680is.pdf
+
+  SRES 706 [Senate]
+  A resolution expressing support for the designation of April 2026 as "National Child Abuse Prevention Month", and the goals and ideals of National Child Abuse Prevention Month.
+  Sponsor: Sen. Cornyn, John [R-TX] + 6 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/706
+  Full Text: https://www.congress.gov/119/bills/sres706/BILLS-119sres706is.pdf
+
+  SRES 730 [Senate]
+  A resolution congratulating the University of Hawaii men's volleyball team for winning the 2026 National Collegiate Athletic Association Men's Volleyball Championship.
+  Sponsor: Sen. Schatz, Brian [D-HI] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/730
+
+  SRES 733 [Senate]
+  A resolution expressing the sense of the Senate that public servants should be commended for their dedication and continued service to the United States during Public Service Recognition Week and throughout the year.
+  Sponsor: Sen. Lankford, James [R-OK] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/733
+
+  SRES 734 [Senate]
+  A resolution designating May 16, 2026, as "Kids to Parks Day".
+  Sponsor: Sen. Wyden, Ron [D-OR] + 6 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/734
+
+  SRES 735 [Senate]
+  A resolution designating the week of May 10 through May 16, 2026, as "National Police Week".
+  Sponsor: Sen. Grassley, Chuck [R-IA] + 68 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/735
+
+  SRES 736 [Senate]
+  A resolution supporting the goals and ideals of National Hospital Week, to be observed from May 10 through May 16, 2026.
+  Sponsor: Sen. Barrasso, John [R-WY] + 6 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/736
+
+  SRES 737 [Senate]
+  A resolution recognizing National Foster Care Month as an opportunity to raise awareness about the challenges of children in the foster care system and to encourage Congress to implement policies to improve the lives of children in the foster care system.
+  Sponsor: Sen. Grassley, Chuck [R-IA] + 14 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/737
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
