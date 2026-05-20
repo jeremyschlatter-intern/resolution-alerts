@@ -1,0 +1,30 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Tuesday, May 19, 2026
+============================================================
+
+3 resolution(s) passed
+
+--- COMMEMORATIVE (3) ---
+
+  SRES 738 [Senate]
+  A resolution recognizing the significance of Jewish American Heritage Month and calling on elected officials and civil society leaders to counter antisemitism.
+  Sponsor: Sen. Scott, Rick [R-FL] + 20 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/738
+
+  SRES 739 [Senate]
+  A resolution honoring the life and legacy of John Seymour, the late Senator for the State of California.
+  Sponsor: Sen. Padilla, Alex [D-CA] + 99 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/739
+
+  SRES 740 [Senate]
+  A resolution expressing support for the designation of May 2026 as "Motorcycle Safety Awareness Month".
+  Sponsor: Sen. Peters, Gary C. [D-MI] + 3 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/740
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
