@@ -1,0 +1,46 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Wednesday, May 20, 2026
+============================================================
+
+4 resolution(s) passed
+
+--- SUBSTANTIVE (2) ---
+
+  SRES 745 [Senate]
+  A resolution to authorize production of records to the United States Attorney.
+  Sponsor: Sen. Thune, John [R-SD] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/745
+
+  HRES 1299 [House]
+  21st Century ROAD to Housing Act
+  Sponsor: Rep. Hill, J. French [R-AR-2] + 1 cosponsor(s)
+  Passed: Roll Call Vote (396-13)
+  Vote: Roll no. 176
+  Time: 13:04
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1299
+  Full Text: https://www.congress.gov/119/bills/hres1299/BILLS-119hres1299ih.pdf
+
+--- PROCEDURAL (1) ---
+
+  HRES 1300 [House]
+  Providing for consideration of the bill (H.R. 1041) to amend title 38, United States Code, to prohibit the Secretary of Veterans Affairs from transmitting certain information to the Department of Justice for use by the national instant criminal background check system; providing for consideration of the bill (H.R. 6047) to amend title 38, United States Code, to direct the Secretary of Veterans Affairs to increase the dollar amounts for the payment of certain disability compensation and dependency and indemnity compensation under the laws administered by the Secretary; providing for consideration of the bill (H.R. 1329) to permit the Smithsonian American Women's History Museum to be located within the Reserve of the National Mall, and for other purposes; and waiving a requirement of clause 6(a) of rule XIII with respect to consideration of certain resolutions reported from the Committee on Rules.
+  Sponsor: Rep. Jack, Brian [R-GA-3]
+  Passed: Agreed To
+  Vote: Roll no. 186
+  Time: 17:35
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1300
+  Full Text: https://www.congress.gov/119/bills/hres1300/BILLS-119hres1300rh.pdf
+
+--- COMMEMORATIVE (1) ---
+
+  SRES 746 [Senate]
+  A resolution designating May 2026 as "National Brain Tumor Awareness Month".
+  Sponsor: Sen. Daines, Steve [R-MT] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/746
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
