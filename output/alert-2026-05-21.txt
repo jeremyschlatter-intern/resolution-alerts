@@ -1,0 +1,74 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Thursday, May 21, 2026
+============================================================
+
+4 resolution(s) passed
+
+--- COMMEMORATIVE (4) ---
+
+  SRES 676 [Senate]
+  A resolution recognizing and honoring National Mushroom Day and the contributions of Chester and Berks Counties to the national mushroom industry and to healthy diets.
+  Sponsor: Sen. Fetterman, John [D-PA] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/676
+  Full Text: https://www.congress.gov/119/bills/sres676/BILLS-119sres676is.pdf
+  Congressional Record: https://www.congress.gov/119/crec/2026/05/21/172/87/modified/CREC-2026-05-21-pt1-PgS2452-6.htm
+  ---
+    [Page S2452] From the Congressional Record Online through the
+  Government Publishing Office [ www.gpo.gov ] RECOGNIZING AND
+  HONORING NATIONAL MUSHROOM DAY AND THE CONTRIBUTIONS OF CHESTER AND
+  BERKS COUNTIES Mr. THUNE. Mr. President, I ask unanimous consent
+  that the Committee on Agriculture, Nutrition, and Forestry be
+  discharged from further consideration and the Senate now proceed to
+  S. Res. 676. The PRESIDING OFFICER. The clerk will report the
+  resolution by title.
+  ---
+
+  SRES 747 [Senate]
+  A resolution expressing support for the designation of May 2026 as "Renewable Fuels Month" to recognize the important role that renewable fuels play in lowering fuel prices for consumers, lessening reliance on foreign adversaries, supporting rural communities, and reducing carbon impacts.
+  Sponsor: Sen. Ricketts, Pete [R-NE] + 9 cosponsor(s)
+  Passed: Voice Vote
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/747
+  Congressional Record: https://www.congress.gov/119/crec/2026/05/21/172/87/modified/CREC-2026-05-21-pt1-PgS2445.htm
+  ---
+    Whereas the United States is the largest producer of biofuels in
+  the world, which contributes to the domestic economy, creates jobs,
+  and reduces greenhouse gas emissions; Whereas ethanol is a renewable
+  fuel made of biomass from plant materials; Whereas, in 2025, more
+  than 79,000 jobs in the United States were directly associated with
+  the ethanol industry, with an additional 237,000 indirect and
+  induced jobs supported across all sectors of the economy; Whereas,
+  in 2025, the ethanol industry creat...
+  ---
+
+  SRES 749 [Senate]
+  A resolution designating May 2026 as "Older Americans Month".
+  Sponsor: Sen. Scott, Rick [R-FL] + 8 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/749
+  Congressional Record: https://www.congress.gov/119/crec/2026/05/21/172/87/modified/CREC-2026-05-21-pt1-PgS2446.htm
+  ---
+    Whereas President John F.
+  ---
+
+  SRES 750 [Senate]
+  A resolution recognizing "National Public Works Week" and the contributions of public works professionals.
+  Sponsor: Sen. Capito, Shelley Moore [R-WV] + 8 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/750
+  Congressional Record: https://www.congress.gov/119/crec/2026/05/21/172/87/modified/CREC-2026-05-21-pt1-PgS2446-2.htm
+  ---
+    Whereas public works professionals provide essential services that
+  support public health, safety, and quality of life in communities
+  across the United States; Whereas these services include the
+  construction, operation, and maintenance of transportation systems,
+  water and wastewater infrastructure, stormwater systems, solid waste
+  management, and public facilities; Whereas public works personnel
+  play an important role in emergency response and recovery efforts,
+  including clearing debris, restoring...
+  ---
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
