@@ -1,0 +1,41 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Wednesday, June 3, 2026
+============================================================
+
+3 resolution(s) passed
+
+--- SUBSTANTIVE (1) ---
+
+  HCONRES 86 [House]
+  Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.
+  Sponsor: Rep. Meeks, Gregory W. [D-NY-5] + 5 cosponsor(s)
+  Passed: Roll Call Vote (215-208)
+  Vote: Roll no. 199
+  Time: 17:17
+  Link: https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/86
+  Full Text: https://www.congress.gov/119/bills/hconres86/BILLS-119hconres86ih.pdf
+
+--- PROCEDURAL (1) ---
+
+  HRES 1333 [House]
+  Providing for consideration of the bill (H.R. 8646) making appropriations for Agriculture, Rural Development, Food and Drug Administration, and Related Agencies programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 7726) to amend the Child Care and Development Block Grant Act of 1990 to withhold funds from noncompliant States under such Act; providing for consideration of the bill (H.R. 7892) to amend the Higher Education Act of 1965 to require to the Secretary of Education to use an identity fraud detection system to review each FAFSA to determine whether the FAFSA presents a reasonable suspicion of identity fraud; and providing for consideration of the bill (H.R. 8872) to amend part A of title IV of the Social Security Act to target funds to low-income families, strengthen program integrity guardrails for State expenditure of funds, require measurement of improper payments, and establish goals for eliminating fraud and improper payments under the program of block grants to States for temporary assistance for needy families, and for other purposes.
+  Sponsor: Rep. Houchin, Erin [R-IN-9]
+  Passed: Agreed To
+  Vote: Roll no. 195
+  Time: 14:32
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1333
+  Full Text: https://www.congress.gov/119/bills/hres1333/BILLS-119hres1333rh.pdf
+
+--- COMMEMORATIVE (1) ---
+
+  SRES 751 [Senate]
+  A resolution designating May 2026 as "ALS Awareness Month".
+  Sponsor: Sen. Coons, Christopher A. [D-DE] + 3 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/751
+  Full Text: https://www.congress.gov/119/bills/sres751/BILLS-119sres751is.pdf
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
