@@ -1,0 +1,24 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Monday, June 8, 2026
+============================================================
+
+2 resolution(s) passed
+
+--- COMMEMORATIVE (2) ---
+
+  SRES 757 [Senate]
+  A resolution designating June 11, 2026, as "National Seersucker Day", designating every subsequent Thursday through the last Thursday in August 2026 as "Seersucker Thursday", and designating June 2026 as "Seersucker Appreciation Month".
+  Sponsor: Sen. Cassidy, Bill [R-LA] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/757
+
+  SRES 758 [Senate]
+  A resolution expressing support for the designation of the month of June 2026 as "National Post-Traumatic Stress Awareness Month" and June 27, 2026, as "National Post-Traumatic Stress Awareness Day".
+  Sponsor: Sen. Sullivan, Dan [R-AK] + 11 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/758
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
