@@ -1,0 +1,75 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Tuesday, June 9, 2026
+============================================================
+
+5 resolution(s) passed
+
+--- SUBSTANTIVE (1) ---
+
+  HRES 1352 [House]
+  Electing Members to certain standing committees of the House of Representatives.
+  Sponsor: Rep. Lieu, Ted [D-CA-36]
+  Passed: Without Objection
+  Time: 19:07
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1352
+
+--- PROCEDURAL (2) ---
+
+  HRES 1140 [House]
+  Providing for consideration of the bill (H.R. 5408) to accelerate workplace time-to-contract under the National Labor Relations Act.
+  Sponsor: Rep. Norcross, Donald [D-NJ-1]
+  Passed: Roll Call Vote (221-201)
+  Vote: Roll no. 215
+  Time: 17:31
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1140
+  Full Text: https://www.congress.gov/119/bills/hres1140/BILLS-119hres1140ih.pdf
+
+  HRES 1345 [House]
+  Providing for consideration of the bill (H.R. 8312) to establish fraud prevention and program integrity functions and data sharing authorities within the Department of Treasury and a permanent governmentwide Inspector General for Fraud, Accountability, and Recovery, and for other purposes; providing for consideration of the bill (H.R. 8464) to amend title 31, United States Code, to authorize pausing and segmenting payments, and for other purposes; providing for consideration of the resolution (H. Res. 1335) condemning actors seeking to defraud the United States Government, and expressing the sense of the House of Representatives that governmentwide fraud and improper payment prevention reforms will meaningfully improve the financial prosperity of the United States, and that Federal program eligibility should be verified before payment; and providing for consideration of the bill (S. 2) to provide for reconciliation pursuant to title II of S. Con. Res. 33.
+  Sponsor: Rep. Langworthy, Nicholas A. [R-NY-23]
+  Passed: Agreed To
+  Vote: Roll no. 211
+  Time: 14:41
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1345
+  Full Text: https://www.congress.gov/119/bills/hres1345/BILLS-119hres1345rh.pdf
+
+--- COMMEMORATIVE (2) ---
+
+  SRES 764 [Senate]
+  A resolution congratulating the students, parents, teachers, and leaders of charter schools across the United States for making ongoing contributions to education and supporting the ideals and goals of the 27th Annual National Charter Schools Week, to be held May 10 through May 16, 2026.
+  Sponsor: Sen. Scott, Tim [R-SC] + 12 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/764
+  Congressional Record: https://www.congress.gov/119/crec/2026/06/09/172/97/modified/CREC-2026-06-09-pt1-PgS2702-2.htm
+  ---
+    Whereas charter schools are public schools that do not charge
+  tuition and enroll any student who wants to attend, often through a
+  random lottery when the demand for enrollment is outmatched by the
+  supply of available charter school seats; Whereas high-performing
+  public charter schools deliver a high-quality public education and
+  challenge all students to reach their potential for academic
+  success; Whereas high-quality public charter schools promote
+  innovation and excellence in public education; W...
+  ---
+
+  SRES 765 [Senate]
+  A resolution expressing support for the designation of July 2026 as "National Sarcoma Awareness Month".
+  Sponsor: Sen. Johnson, Ron [R-WI] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/765
+  Congressional Record: https://www.congress.gov/119/crec/2026/06/09/172/97/modified/CREC-2026-06-09-pt1-PgS2703.htm
+  ---
+    Whereas sarcoma is a rare cancer of the bones or connective
+  tissues, such as nerves, muscles, joints, fat, and blood vessels,
+  that can arise nearly anywhere in the body; Whereas, in the United
+  States-- (1) about 18,000 individuals are diagnosed with sarcoma
+  each year; (2) approximately 7,600 individuals die from sarcoma each
+  year; and (3) over 236,000 individuals struggle with sarcoma at any
+  given time; Whereas, each year, about 1 percent of cancers diagnosed
+  in adults and around 21 percent of c...
+  ---
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
