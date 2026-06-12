@@ -1,0 +1,21 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Thursday, June 11, 2026
+============================================================
+
+1 resolution(s) passed
+
+--- SUBSTANTIVE (1) ---
+
+  HRES 1335 [House]
+  Condemning actors seeking to defraud the United States Government, and expressing the sense of the House of Representatives that governmentwide fraud and improper payment prevention reforms will meaningfully improve the financial prosperity of the United States, and that Federal program eligibility should be verified before payment.
+  Sponsor: Rep. Fallon, Pat [R-TX-4] + 8 cosponsor(s)
+  Passed: Roll Call Vote (235-177)
+  Vote: Roll no. 222
+  Time: 10:45
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1335
+  Full Text: https://www.congress.gov/119/bills/hres1335/BILLS-119hres1335eh.pdf
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
