@@ -1,0 +1,29 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Monday, June 15, 2026
+============================================================
+
+1 resolution(s) passed
+
+--- COMMEMORATIVE (1) ---
+
+  SRES 770 [Senate]
+  A resolution designating June 6, 2026, as National Naloxone Awareness Day.
+  Sponsor: Sen. Scott, Rick [R-FL] + 17 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/770
+  Congressional Record: https://www.congress.gov/119/crec/2026/06/15/172/100/modified/CREC-2026-06-15-pt1-PgS2791.htm
+  ---
+    Whereas opioid overdoses continue to devastate communities across
+  the United States, leading to a significant loss of life and
+  widespread societal impact; Whereas opioid overdoses during the 12
+  months preceding November of 2025 claimed a reported 43,810 lives in
+  the United States; Whereas fatal overdoses are often witnessed by a
+  bystander; Whereas, in 2025 alone, the Drug Enforcement
+  Administration seized more than 369,000,000 potentially deadly doses
+  of fentanyl, enough to kill every individual...
+  ---
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
