@@ -1,0 +1,30 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Wednesday, June 17, 2026
+============================================================
+
+3 resolution(s) passed
+
+--- COMMEMORATIVE (3) ---
+
+  SRES 771 [Senate]
+  A resolution congratulating the New York Knicks on winning the 2026 National Basketball Association Finals.
+  Sponsor: Sen. Schumer, Charles E. [D-NY] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/771
+
+  SRES 776 [Senate]
+  A resolution honoring the life of Kyle Busch.
+  Sponsor: Sen. Budd, Ted [R-NC] + 3 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/776
+
+  SRES 777 [Senate]
+  A resolution designating May 1, 2026, as "United States Foreign Service Day" in recognition of the men and women who have served, or are presently serving, in the Foreign Service of the United States, and honoring the members of the Foreign Service who have given their lives in the line of duty.
+  Sponsor: Sen. Sullivan, Dan [R-AK] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/777
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
