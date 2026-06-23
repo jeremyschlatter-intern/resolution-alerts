@@ -1,0 +1,32 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Monday, June 22, 2026
+============================================================
+
+3 resolution(s) passed
+
+--- COMMEMORATIVE (3) ---
+
+  SRES 761 [Senate]
+  A resolution designating June 23, 2026, as "Social Media Harms Victim Remembrance Day".
+  Sponsor: Sen. Klobuchar, Amy [D-MN] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/761
+  Full Text: https://www.congress.gov/119/bills/sres761/BILLS-119sres761is.pdf
+
+  SRES 768 [Senate]
+  A resolution commemorating the anniversary of the antisemitic attack on participants in the Run for Their Lives walk in Boulder, Colorado on June 1, 2025.
+  Sponsor: Sen. Hickenlooper, John W. [D-CO] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/768
+  Full Text: https://www.congress.gov/119/bills/sres768/BILLS-119sres768is.pdf
+
+  SRES 783 [Senate]
+  A resolution expressing support for the designation of June 11, 2026, as "Anti-Illicit Trade Awareness Day".
+  Sponsor: Sen. Cassidy, Bill [R-LA] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/783
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
