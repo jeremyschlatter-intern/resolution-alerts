@@ -1,0 +1,28 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Tuesday, June 23, 2026
+============================================================
+
+2 resolution(s) passed
+
+--- SUBSTANTIVE (1) ---
+
+  HCONRES 86 [House]
+  Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.
+  Sponsor: Rep. Meeks, Gregory W. [D-NY-5] + 5 cosponsor(s)
+  Passed: Roll Call Vote (50-48)
+  Vote: Roll no. 184
+  Link: https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/86
+  Full Text: https://www.congress.gov/119/bills/hconres86/BILLS-119hconres86rfs.pdf
+
+--- COMMEMORATIVE (1) ---
+
+  SRES 786 [Senate]
+  A resolution designating July 15, 2026, as "Glioblastoma Awareness Day".
+  Sponsor: Sen. Graham, Lindsey [R-SC] + 9 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/786
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
