@@ -1,0 +1,52 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Wednesday, June 24, 2026
+============================================================
+
+6 resolution(s) passed
+
+--- SUBSTANTIVE (1) ---
+
+  HRES 1381 [House]
+  Electing a Member to certain standing committees of the House of Representatives.
+  Sponsor: Rep. Flood, Mike [R-NE-1]
+  Passed: Without Objection
+  Time: 12:08
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1381
+
+--- COMMEMORATIVE (5) ---
+
+  SRES 741 [Senate]
+  A resolution designating May 2026 as "National Wildfire Preparedness Month".
+  Sponsor: Sen. Hirono, Mazie K. [D-HI] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/741
+  Full Text: https://www.congress.gov/119/bills/sres741/BILLS-119sres741is.pdf
+
+  SRES 792 [Senate]
+  A resolution designating June 30, 2026, as "Asteroid Day".
+  Sponsor: Sen. Kelly, Mark [D-AZ] + 2 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/792
+
+  SRES 793 [Senate]
+  A resolution congratulating the Johnson County Community College Cavaliers on winning the 2026 National Junior College Athletic Association Division I Baseball National Championship.
+  Sponsor: Sen. Marshall, Roger [R-KS] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/793
+
+  SRES 794 [Senate]
+  A resolution expressing support for the designation of July 10, 2026, as Journeyman Lineworkers Recognition Day.
+  Sponsor: Sen. Cortez Masto, Catherine [D-NV] + 21 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/794
+
+  SRES 795 [Senate]
+  A resolution commemorating the 150th anniversary of the Battle of the Little Bighorn.
+  Sponsor: Sen. Daines, Steve [R-MT] + 1 cosponsor(s)
+  Passed: Voice Vote
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/795
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
