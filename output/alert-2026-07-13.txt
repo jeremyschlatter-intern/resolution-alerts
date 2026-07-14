@@ -1,0 +1,27 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Monday, July 13, 2026
+============================================================
+
+2 resolution(s) passed
+
+--- SUBSTANTIVE (1) ---
+
+  HRES 1424 [House]
+  Expressing the profound sorrow of the House of Representatives on the death of the Honorable Lindsey Graham.
+  Sponsor: Rep. Wilson, Joe [R-SC-2]
+  Passed: Without Objection
+  Time: 19:13
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1424
+
+--- COMMEMORATIVE (1) ---
+
+  SRES 801 [Senate]
+  A resolution honoring the life and legacy of the Honorable Lindsey Olin Graham, a Senator from the State of South Carolina.
+  Sponsor: Sen. Scott, Tim [R-SC] + 98 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/801
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
