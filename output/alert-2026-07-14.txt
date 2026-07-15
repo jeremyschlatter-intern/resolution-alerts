@@ -1,0 +1,43 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Tuesday, July 14, 2026
+============================================================
+
+4 resolution(s) passed
+
+--- PROCEDURAL (1) ---
+
+  HRES 1423 [House]
+  Providing for consideration of the bill (H.R. 139) to make daylight savings time permanent, and for other purposes; providing for consideration of the bill (H.R. 8595) making appropriations for national security, Department of State, and related programs for the fiscal year ending September 30, 2027, and for other purposes; providing for consideration of the bill (H.R. 9237) to amend titles 10 and 38, United States Code, and other Federal laws, to improve benefits for veterans and the administration of the Department of Veterans Affairs; providing for consideration of the bill (H.R. 1181) to prohibit payment card networks and covered entities from requiring the use of or assigning merchant category codes that distinguish a firearms retailer from general-merchandise retailer or sporting-goods retailer, and for other purposes; and for other purposes.
+  Sponsor: Rep. Foxx, Virginia [R-NC-5]
+  Passed: Agreed To
+  Vote: Roll no. 237
+  Time: 14:39
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1423
+  Full Text: https://www.congress.gov/119/bills/hres1423/BILLS-119hres1423rh.pdf
+
+--- COMMEMORATIVE (3) ---
+
+  SRES 742 [Senate]
+  A resolution commemorating the 70th anniversary of the United States Forest Service Institute of Pacific Islands Forestry.
+  Sponsor: Sen. Hirono, Mazie K. [D-HI] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/742
+  Full Text: https://www.congress.gov/119/bills/sres742/BILLS-119sres742is.pdf
+
+  SRES 798 [Senate]
+  A resolution designating June 2026 as "Great Outdoors Month".
+  Sponsor: Sen. Daines, Steve [R-MT] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/798
+  Full Text: https://www.congress.gov/119/bills/sres798/BILLS-119sres798is.pdf
+
+  SRES 803 [Senate]
+  A resolution congratulating the 2025-2026 Carolina Hurricanes for winning the Stanley Cup.
+  Sponsor: Sen. Budd, Ted [R-NC] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/803
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
