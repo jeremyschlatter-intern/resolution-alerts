@@ -1,0 +1,47 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Wednesday, July 15, 2026
+============================================================
+
+4 resolution(s) passed
+
+--- COMMEMORATIVE (4) ---
+
+  SRES 772 [Senate]
+  A resolution expressing the sense of the Senate that under no circumstances should Samuel Bankman-Fried receive executive clemency, including a pardon or commutation, and affirming the Senate's commitment to the rule of law and integrity of the United States financial system.
+  Sponsor: Sen. Gallego, Ruben [D-AZ] + 2 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/772
+  Full Text: https://www.congress.gov/119/bills/sres772/BILLS-119sres772is.pdf
+  Congressional Record: https://www.congress.gov/119/crec/2026/07/15/172/115/modified/CREC-2026-07-15-pt1-PgS4117-2.htm
+  ---
+    [Page S4117] From the Congressional Record Online through the
+  Government Publishing Office [ www.gpo.gov ] EXPRESSING THE SENSE OF
+  THE SENATE THAT UNDER NO CIRCUMSTANCES SHOULD SAMUEL BANKMAN-FRIED
+  RECEIVE EXECUTIVE CLEMENCY, INCLUDING A PARDON OR COMMUTATION, AND
+  AFFIRMING THE SENATE'S COMMITMENT TO THE RULE OF LAW AND INTEGRITY
+  OF THE UNITED STATES FINANCIAL SYSTEM Mr. HUSTED. Mr.
+  ---
+
+  SRES 799 [Senate]
+  A resolution expressing the condolences of the Senate and honoring the memory of the victims on the fourth anniversary of the mass shooting at the Fourth of July parade in Highland Park, Illinois, on July 4, 2022.
+  Sponsor: Sen. Durbin, Richard J. [D-IL] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/799
+  Full Text: https://www.congress.gov/119/bills/sres799/BILLS-119sres799is.pdf
+
+  SRES 804 [Senate]
+  A resolution commemorating the tenth anniversary of the 2016 West Virginia floods.
+  Sponsor: Sen. Justice, James C. [R-WV] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/804
+
+  SRES 805 [Senate]
+  A resolution celebrating the historic significance of the 2026 Federation Internationale de Football Association (FIFA) World Cup and welcoming the international community to North America for the first tournament hosted by 3 nations.
+  Sponsor: Sen. Welch, Peter [D-VT] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/805
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
