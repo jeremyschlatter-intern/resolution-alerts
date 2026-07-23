@@ -1,0 +1,29 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Wednesday, July 22, 2026
+============================================================
+
+2 resolution(s) passed
+
+--- SUBSTANTIVE (2) ---
+
+  SCONRES 37 [Senate]
+  A concurrent resolution authorizing the use of the rotunda of the Capitol for a ceremony to honor the late Senator Lindsey O. Graham.
+  Sponsor: Sen. Thune, John [R-SD]
+  Passed: Without Objection
+  Time: 17:06
+  Link: https://www.congress.gov/bill/119th-congress/senate-concurrent-resolution/37
+  Full Text: https://www.congress.gov/119/bills/sconres37/BILLS-119sconres37es.pdf
+
+  HCONRES 113 [House]
+  Establishing the congressional budget for the United States Government for fiscal year 2027 and setting forth the appropriate budgetary levels for fiscal years 2028 through 2036.
+  Sponsor: Rep. Arrington, Jodey C. [R-TX-19]
+  Passed: Roll Call Vote (216-214)
+  Vote: Roll no. 281
+  Time: 16:59
+  Link: https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/113
+  Full Text: https://www.congress.gov/119/bills/hconres113/BILLS-119hconres113rh.pdf
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
