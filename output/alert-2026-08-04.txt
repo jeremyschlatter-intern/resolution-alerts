@@ -1,0 +1,18 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Tuesday, August 4, 2026
+============================================================
+
+1 resolution(s) passed
+
+--- COMMEMORATIVE (1) ---
+
+  SRES 830 [Senate]
+  A resolution recognizing the 80th anniversary of the Fullbright Program.
+  Sponsor: Sen. Boozman, John [R-AR] + 3 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/830
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
