@@ -1,0 +1,19 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Thursday, September 10, 2026
+============================================================
+
+1 resolution(s) passed
+
+--- SUBSTANTIVE (1) ---
+
+  HRES 1520 [House]
+  Expressing the sense of the House of Representatives regarding the terrorist attacks launched against the United States on September 11, 2001, on the 25th anniversary of that date.
+  Sponsor: Rep. Johnson, Mike [R-LA-4]
+  Passed: Without Objection
+  Time: 15:32
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1520
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
