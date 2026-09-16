@@ -1,0 +1,41 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Tuesday, September 15, 2026
+============================================================
+
+3 resolution(s) passed
+
+--- SUBSTANTIVE (2) ---
+
+  HJRES 210 [House]
+  Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to "California State Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice of Decision".
+  Sponsor: Rep. Fong, Vince [R-CA-20] + 7 cosponsor(s)
+  Passed: Roll Call Vote (216-211)
+  Vote: Roll no. 306
+  Time: 22:22
+  Link: https://www.congress.gov/bill/119th-congress/house-joint-resolution/210
+  Full Text: https://www.congress.gov/119/bills/hjres210/BILLS-119hjres210ih.pdf
+
+  HCONRES 93 [House]
+  Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran.
+  Sponsor: Rep. Moulton, Seth [D-MA-6] + 14 cosponsor(s)
+  Passed: Roll Call Vote (220-204)
+  Vote: Roll no. 307
+  Time: 22:32
+  Link: https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/93
+  Full Text: https://www.congress.gov/119/bills/hconres93/BILLS-119hconres93ih.pdf
+
+--- PROCEDURAL (1) ---
+
+  HRES 1530 [House]
+  Providing for consideration of the bill (H.R. 9576) to establish the National Fraud Enforcement Division of the Department of Justice; providing for consideration of the bill (H.R. 10326) to enhance information-sharing capabilities between Federal law enforcement and State agencies to detect, investigate, and prosecute fraud in certain Federal programs, and to protect individual privacy; providing for consideration of the joint resolution (H.J. Res. 210) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to ''California State Nonroad Engine Pollution Control Standards; Ocean-Going Vessels At-Berth; Notice of Decision''; providing for consideration of the joint resolution (H.J. Res. 213) providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule issued by the Environmental Protection Agency relating to the ''California State Nonroad Engine Pollution Control Standards; Commercial Harbor Craft Regulations; Notice of Decision''; and providing for consideration of the Senate amendments to the bill (H.R. 5334) to amend the Internal Revenue Code of 1986 to allow early childhood educators to take the educator expense deduction, and for other purposes.
+  Sponsor: Rep. Fischbach, Michelle [R-MN-7]
+  Passed: Agreed To
+  Vote: Roll no. 300
+  Time: 17:28
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1530
+  Full Text: https://www.congress.gov/119/bills/hres1530/BILLS-119hres1530rh.pdf
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
