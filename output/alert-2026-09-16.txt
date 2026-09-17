@@ -1,0 +1,62 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Wednesday, September 16, 2026
+============================================================
+
+7 resolution(s) passed
+
+--- SUBSTANTIVE (3) ---
+
+  HJRES 213 [House]
+  Providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule issued by the Environmental Protection Agency relating to the "California State Nonroad Engine Pollution Control Standards; Commercial Harbor Craft Regulations; Notice of Decision".
+  Sponsor: Rep. Gallagher, James [R-CA-1] + 5 cosponsor(s)
+  Passed: Roll Call Vote (214-208)
+  Vote: Roll no. 311
+  Time: 18:50
+  Link: https://www.congress.gov/bill/119th-congress/house-joint-resolution/213
+  Full Text: https://www.congress.gov/119/bills/hjres213/BILLS-119hjres213ih.pdf
+
+  HRES 1543 [House]
+  Recommending that the House of Representatives find Leon D. Black in contempt of Congress for refusal to comply with subpoenas duly issued by the Committee on Oversight and Government Reform.
+  Sponsor: Rep. Comer, James [R-KY-1]
+  Passed: Without Objection
+  Time: 14:36
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1543
+
+  HRES 1544 [House]
+  Electing a Member to a certain standing committee of the House of Representatives.
+  Sponsor: Rep. Lieu, Ted [D-CA-36]
+  Passed: Without Objection
+  Time: 19:06
+  Link: https://www.congress.gov/bill/119th-congress/house-resolution/1544
+
+--- COMMEMORATIVE (4) ---
+
+  SRES 847 [Senate]
+  A resolution commending and congratulating the Pennsylvania State University Nittany Lions men's wrestling team for winning the 2026 National Collegiate Athletic Association Division I National Championship.
+  Sponsor: Sen. McCormick, David [R-PA] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/847
+  Full Text: https://www.congress.gov/119/bills/sres847/BILLS-119sres847is.pdf
+
+  SRES 859 [Senate]
+  A resolution recognizing the 25th anniversary of the terrorist attacks of September 11, 2001, honoring the memory of the victims, recognizing the courage and sacrifice of the heroes who answered the call to serve, acknowledging the charitable organizations that continue to support survivors and victims' families, and reaffirming the enduring commitment of the United States to never forget.
+  Sponsor: Sen. Gillibrand, Kirsten E. [D-NY] + 10 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/859
+
+  SRES 860 [Senate]
+  A resolution recognizing September 15, 2026, as "National Voter Registration Day".
+  Sponsor: Sen. McConnell, Mitch [R-KY] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/860
+
+  SRES 861 [Senate]
+  A resolution congratulating the University of Oklahoma baseball team for winning the 2026 National Collegiate Athletic Association Division I Baseball Championship, the third national championship in program history.
+  Sponsor: Sen. Lankford, James [R-OK] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/861
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
