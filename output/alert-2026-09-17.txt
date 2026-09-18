@@ -1,0 +1,25 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Thursday, September 17, 2026
+============================================================
+
+2 resolution(s) passed
+
+--- COMMEMORATIVE (2) ---
+
+  SRES 816 [Senate]
+  A resolution honoring 35 years of independence for the countries of Central Asia and recognizing the importance of the United States growing relationship with Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, and Uzbekistan.
+  Sponsor: Sen. Daines, Steve [R-MT] + 5 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/816
+  Full Text: https://www.congress.gov/119/bills/sres816/BILLS-119sres816is.pdf
+
+  SRES 862 [Senate]
+  A resolution honoring the life and legacy of Dolly Parton, a daughter of Tennessee whose extraordinary contributions to music, philanthropy, literacy, education, health, conservation, and culture enriched the lives of countless Americans.
+  Sponsor: Sen. Blackburn, Marsha [R-TN] + 16 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/862
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
