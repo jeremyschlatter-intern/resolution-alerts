@@ -1,0 +1,46 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Tuesday, September 22, 2026
+============================================================
+
+2 resolution(s) passed
+
+--- COMMEMORATIVE (2) ---
+
+  SRES 870 [Senate]
+  A resolution recognizing Hispanic Heritage Month and celebrating the heritage and culture of Latinos in the United States and the immense contributions of Latinos to the United States.
+  Sponsor: Sen. Cortez Masto, Catherine [D-NV] + 33 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/870
+  Congressional Record: https://www.congress.gov/119/crec/2026/09/22/172/150/modified/CREC-2026-09-22-pt1-PgS4861.htm
+  ---
+    Whereas, from September 15, 2026, through October 15, 2026, the
+  United States celebrates Hispanic Heritage Month; Whereas the Bureau
+  of the Census estimates the Hispanic population living in the 50
+  States and the Commonwealth of Puerto Rico at more than 70,100,000
+  people, making Hispanic Americans approximately 21 percent of the
+  total population of the United States and the largest racial or
+  ethnic minority group in the United States; Whereas, in 2025, there
+  were 1,000,000 or more Hispanic resid...
+  ---
+
+  SRES 871 [Senate]
+  A resolution supporting the goals and ideals of National Purple Heart Recognition Day.
+  Sponsor: Sen. Moody, Ashley [R-FL] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/871
+  Congressional Record: https://www.congress.gov/119/crec/2026/09/22/172/150/modified/CREC-2026-09-22-pt1-PgS4862.htm
+  ---
+    Whereas, on August 7, 1782, during the Revolutionary War, General
+  George Washington established what is now known as the Purple Heart
+  Medal when he issued an order establishing the Badge of Military
+  Merit; Whereas the Badge of Military Merit was designed in the shape
+  of a heart in purple cloth or silk; Whereas, while the award of the
+  Badge of Military Merit ceased with the end of the Revolutionary
+  War, the Purple Heart Medal was authorized in 1932 as the official
+  successor decoration to the Badg...
+  ---
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
