@@ -1,0 +1,38 @@
+CONGRESSIONAL RESOLUTION ALERT
+Resolutions passed on Thursday, September 24, 2026
+============================================================
+
+4 resolution(s) passed
+
+--- SUBSTANTIVE (1) ---
+
+  SRES 902 [Senate]
+  A resolution supporting the designation of the week of September 20 through September 26, 2026, as "Telehealth Awareness Week".
+  Sponsor: Sen. Schatz, Brian [D-HI] + 5 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/902
+
+--- COMMEMORATIVE (3) ---
+
+  SRES 903 [Senate]
+  A resolution designating October 30, 2026, as a national day of remembrance for the workers of the nuclear weapons program of the United States.
+  Sponsor: Sen. Blackburn, Marsha [R-TN] + 7 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/903
+
+  SRES 904 [Senate]
+  A resolution designating the week of September 20 through September 27, 2026, as "Gold Star Families Remembrance Week".
+  Sponsor: Sen. Hyde-Smith, Cindy [R-MS] + 1 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/904
+
+  SRES 905 [Senate]
+  A resolution designating September 25, 2026, as "National Lobster Day".
+  Sponsor: Sen. King, Angus S., Jr. [I-ME] + 9 cosponsor(s)
+  Passed: Unanimous Consent
+  Link: https://www.congress.gov/bill/119th-congress/senate-resolution/905
+
+============================================================
+Data sourced from the Congress.gov API
+Resolution text may appear in the Congressional Record
+before it appears on individual congress.gov bill pages.
